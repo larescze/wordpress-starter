@@ -37,9 +37,9 @@ Full documentation for developing WordPress themes [on the website](https://deve
 ## 🌐 Other starter themes
 
 <p>[Underscores](https://underscores.me/)</p>
-<p>[UnderStrape](https://understrap.com/)/p>
-<p>[Astra](https://wpastra.com/)/p>
-<p>[Sage](https://roots.io/sage/)/p>
+<p>[UnderStrape](https://understrap.com/)</p>
+<p>[Astra](https://wpastra.com/)</p>
+<p>[Sage](https://roots.io/sage/)</p>
 
 
 
