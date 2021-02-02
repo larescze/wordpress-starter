@@ -24,16 +24,22 @@
 
 3.  **Open the source code and start editing!**
 
-    Go to your website address where is WP installed: `your-domain/wp-admin`!
+    Go to your website address where is WP installed: *your-domain/wp-admin*.
 
-    Login in and active theme at: `your-domain/wp-admin/themes.php`\_.
+    Login in and active theme at: *your-domain/wp-admin/themes.php*.
 
-    Now you can see your actual theme version at `your-domain`.
+    Now you can see your actual theme version at *your-domain*.
 
 ## 🎓 More about WordPress
 
 Full documentation for developing WordPress themes [on the website](https://developer.wordpress.org/).
 
-## 🌐 Deploy status
+## 🌐 Other starter themes
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/396fa63d-5844-441d-b9b9-1cc155829abc/deploy-status)](https://app.netlify.com/sites/willilazarov/deploys)
+<p>[Underscores](https://underscores.me/)</p>
+<p>[UnderStrape](https://understrap.com/)/p>
+<p>[Astra](https://wpastra.com/)/p>
+<p>[Sage](https://roots.io/sage/)/p>
+
+
+
